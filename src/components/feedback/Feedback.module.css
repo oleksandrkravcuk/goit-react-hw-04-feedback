@@ -1,0 +1,38 @@
+.continer {
+    text-align: center;
+    }
+    
+    h2 {
+        font-size: 58px;
+        color: #070707;
+    }
+    
+    button {
+        margin: 10px;
+        padding: 20px 30px;
+        font-size: 18px;
+        font-weight: bold;
+        cursor: pointer;
+        text-transform: capitalize;
+        border-radius: 25px;
+        box-shadow: 4px 4px 4px black;
+        transition: 300ms;
+        background: rgb(34,105,195);
+        background: linear-gradient(0deg, rgba(34,105,195,1) 0%, rgba(45,253,121,1) 100%);
+    }
+    button:hover{
+        box-shadow: 1px 1px 1px black;
+        transition: 300ms;
+        color: #555;
+    }
+
+    h3 {
+        margin-top: 80px;
+        font-size: 38px;
+        color: #131111;
+    }
+    
+    p {
+        margin: 8px 0;
+        font-size: 30px;
+    }
